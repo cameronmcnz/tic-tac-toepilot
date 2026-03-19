@@ -1,7 +1,7 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import App from './App';
 
-describe('TicTacToePilot', () => {
+describe('KickCatCopilot', () => {
   test('renders the best-of-5 experience', () => {
     render(<App />);
 

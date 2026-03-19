@@ -181,7 +181,7 @@ function App() {
 
       <section className="app-card">
         <header className="hero">
-          <p className="eyebrow">Tic-Tac-ToePilot</p>
+          <p className="eyebrow">Kick-Cat-Copilot</p>
           <h1>Best-of-5 glitter combat.</h1>
           <p className="hero-copy">
             A dark-mode tic-tac-toe showdown with feminine colors, teasing little
